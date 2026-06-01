@@ -5,6 +5,7 @@
 [![Deploy MkDocs](https://github.com/mj3b/rgds-independent-study/actions/workflows/deploy-mkdocs.yml/badge.svg)](https://github.com/mj3b/rgds-independent-study/actions/workflows/deploy-mkdocs.yml)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20242004-blue)](https://doi.org/10.5281/zenodo.20242004)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8121--2878-brightgreen)](https://orcid.org/0009-0001-8121-2878)
 
 ---
 
@@ -151,4 +152,4 @@ Copyright © 2026 Mark Julius Banasihan. Licensed under the [Apache License 2.0]
 **Mark Julius Banasihan**
 Decision governance systems for regulated, high-stakes environments.
 
-[GitHub](https://github.com/mj3b) · [LinkedIn](https://linkedin.com/in/markjuliusbanasihan) · [Email](mailto:markjuliusbanasihan@gmail.com) · Atlanta, Georgia, United States
+[GitHub](https://github.com/mj3b) · [LinkedIn](https://linkedin.com/in/markjuliusbanasihan) · [ORCID](https://orcid.org/0009-0001-8121-2878) · Atlanta, Georgia, United States
