@@ -26,8 +26,8 @@ version: "1.4"
 date-released: "2026-01-09"
 license: Apache-2.0
 doi: 10.5281/zenodo.20242004
-repository-code: https://github.com/mj3b/rgds-independent-study
-url: https://mj3b.github.io/rgds-independent-study
+repository-code: https://github.com/node-and-norm/rgds-independent-study
+url: https://node-and-norm.github.io/rgds-independent-study
 keywords:
   - AI governance
   - biopharma
@@ -49,12 +49,12 @@ references:
     authors:
       - family-names: Banasihan
         given-names: Mark Julius
-    repository-code: https://github.com/mj3b/rgds
+    repository-code: https://github.com/node-and-norm/rgds
     license: Apache-2.0
   - type: software
     title: "RGDS AI Governance — Non-Agentic AI Constraints for Regulated Decision Support"
     authors:
       - family-names: Banasihan
         given-names: Mark Julius
-    repository-code: https://github.com/mj3b/rgds-ai-governance
+    repository-code: https://github.com/node-and-norm/rgds-ai-governance
     license: Apache-2.0

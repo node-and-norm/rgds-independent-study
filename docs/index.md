@@ -126,8 +126,8 @@ ROI projections are modeled against a 5-IND portfolio using published benchmarks
 
 ## Related Repositories
 
-- **[rgds](https://github.com/mj3b/rgds)** — Decision log schemas (`decision-log.schema.json`), governance covenants, and canonical example logs (RGDS-DEC-0001 through RGDS-DEC-0006)
-- **[rgds-ai-governance](https://github.com/mj3b/rgds-ai-governance)** — Non-agentic AI governance boundaries and constraints for regulated decision support
+- **[rgds](https://github.com/node-and-norm/rgds)** — Decision log schemas (`decision-log.schema.json`), governance covenants, and canonical example logs (RGDS-DEC-0001 through RGDS-DEC-0006)
+- **[rgds-ai-governance](https://github.com/node-and-norm/rgds-ai-governance)** — Non-agentic AI governance boundaries and constraints for regulated decision support
 
 Both repositories are licensed under the Apache License 2.0.
 

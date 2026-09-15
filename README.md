@@ -1,8 +1,12 @@
 # RGDS: Regulated Gate Decision Support
 
+[Node & Norm research directory](https://github.com/node-and-norm) · Historical and exploratory research within the decision-governance program.
+
+Repository stewardship moved to Node & Norm on 2026-09-15. Published versions, authorship, and research-status claims retain their existing scope.
+
 **Decision-Centric AI Governance for Biopharma/Biotech Development**
 
-[![Deploy MkDocs](https://github.com/mj3b/rgds-independent-study/actions/workflows/deploy-mkdocs.yml/badge.svg)](https://github.com/mj3b/rgds-independent-study/actions/workflows/deploy-mkdocs.yml)
+[![Deploy MkDocs](https://github.com/node-and-norm/rgds-independent-study/actions/workflows/deploy-mkdocs.yml/badge.svg)](https://github.com/node-and-norm/rgds-independent-study/actions/workflows/deploy-mkdocs.yml)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20242004-blue)](https://doi.org/10.5281/zenodo.20242004)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8121--2878-brightgreen)](https://orcid.org/0009-0001-8121-2878)
@@ -88,8 +92,8 @@ rgds-independent-study/
 ```
 
 Related repositories:
-- **[rgds](https://github.com/mj3b/rgds)** — Decision log schemas, governance covenants, canonical example logs (RGDS-DEC-0001 through RGDS-DEC-0006), and JSON schema validation pipeline
-- **[rgds-ai-governance](https://github.com/mj3b/rgds-ai-governance)** — Non-agentic AI governance boundaries and constraints for regulated decision support
+- **[rgds](https://github.com/node-and-norm/rgds)** — Decision log schemas, governance covenants, canonical example logs (RGDS-DEC-0001 through RGDS-DEC-0006), and JSON schema validation pipeline
+- **[rgds-ai-governance](https://github.com/node-and-norm/rgds-ai-governance)** — Non-agentic AI governance boundaries and constraints for regulated decision support
 
 ---
 
@@ -97,7 +101,7 @@ Related repositories:
 
 The full ten-question study is published via GitHub Pages using MkDocs Material:
 
-**[https://mj3b.github.io/rgds-independent-study](https://mj3b.github.io/rgds-independent-study)**
+**[https://node-and-norm.github.io/rgds-independent-study](https://node-and-norm.github.io/rgds-independent-study)**
 
 To build locally:
 

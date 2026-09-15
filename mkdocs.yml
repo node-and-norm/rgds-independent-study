@@ -3,9 +3,9 @@ site_description: >
   A decision-centric AI governance framework for regulated biopharma/biotech programs.
   Ten-question independent study on reconstructability, AI accountability, FDA compliance,
   and implementation of schema-validated decision logs in phase-gated drug development.
-site_url: https://mj3b.github.io/rgds-independent-study
-repo_url: https://github.com/mj3b/rgds-independent-study
-repo_name: mj3b/rgds-independent-study
+site_url: https://node-and-norm.github.io/rgds-independent-study
+repo_url: https://github.com/node-and-norm/rgds-independent-study
+repo_name: node-and-norm/rgds-independent-study
 
 copyright: Copyright &copy; 2026 Mark Julius Banasihan · Apache License 2.0
 
