@@ -1,0 +1,20 @@
+{
+  "repository": "node-and-norm/.github",
+  "commit": "cae1260c05b686a30f51580ae96ec705428c8535",
+  "path": "assets/research/v1/projects/rgds-independent-study",
+  "copied_file_sha256": {
+    "banner-light.svg": "34c915e8afdacb4eab31a31b8ff6d639829a00b7abfb132e0c0e2fe8f5cf0747",
+    "config.json": "98b04d9e3c05035de1dd0f66bff73509ef7224cc3b0b7568abaca57adef807fb",
+    "banner-mobile-light.svg": "f3c41dec04aa457f97d6930dc84a695dc77a40f1325733158aded69ee50537e7",
+    "manifest.json": "afcb5e212d865522d6a61797e88221919dbfe5c92f5fa082a6469e90afcc1f17",
+    "banner-dark.svg": "405c6024d1450c166847372dc20567731b1828fab88bcd1736138c9baeaec35a",
+    "banner-mobile-dark.svg": "aca12c3277a0a08bbcd60d94c4799325daf32c63d35b549f1b5e50b12041a9e3",
+    "badges/license-dark.svg": "19d32f3306119c3c3512ff197fc0ad2de06b74ea188d4398e4ea23dd4b9c4f03",
+    "badges/version-dark.svg": "90521b3d7a8e45c16927fd699afc6c7649311c334b46f5f58b9c48a364db0421",
+    "badges/license-light.svg": "0bbbd949a5ae451a67522379e24968f97bfa5030ab300d5c69b88e272c6e603a",
+    "badges/status-light.svg": "9c724a0b4588666b6e48be80d0040543908244a0918503647d6500b8b4e20c0b",
+    "badges/status-dark.svg": "135468a342b8b09faf0a0cdf20a442fed7603060dbd02dc962046bd30e29e4e8",
+    "badges/version-light.svg": "4cd5b8fb6c3355bc04aa7983dc907a9d981505f7d6d949c956086f9105fdd33f"
+  },
+  "integration": "Dark banner and badges in both browser themes. Mobile title uses explicit line breaks."
+}
