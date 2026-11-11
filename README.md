@@ -1,3 +1,9 @@
+> **Research status, as of November 11, 2026: Historical exploratory study.**
+>
+> **What this repository holds.** Literature synthesis and illustrative reasoning across ten questions about decision records in regulated drug development.
+>
+> **What remains open.** Retained quantitative, pilot and regulatory-validation claims require supporting-record review; empirical effects are not established.
+
 <h1>
 <picture>
   <source media="(max-width: 600px)" srcset="assets/research/v1/banner-mobile-dark.svg">
